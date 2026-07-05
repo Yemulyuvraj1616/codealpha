@@ -1,5 +1,5 @@
 #  Stock Portfolio Tracker 
-# Author: BETHI SAHITHYA VARSHINI
+# Author: yemul yuvraj
 
 # Step 1: Hardcoded stock prices bro
 stock_prices = {
